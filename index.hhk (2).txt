@@ -1,0 +1,55 @@
+
+<!doctype html>
+<html>
+<head>
+    <title>Hello html world!</title>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />    
+</head>
+
+<body>
+<div> 
+    <iframe align="right" width="560" height="315" src="https://www.youtube.com/embed/tO1VLpVpu1g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <h1>Hello world!</h1>
+    <h2>A few facts about the world we live in....</h2>
+    <br />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/330px-The_Earth_seen_from_Apollo_17.jpg" width="300" />
+    <p>Earth is the third planet from the Sun and the only astronomical object known to harbor and support life. About 29.2% of Earth's surface is land consisting of continents and islands. The remaining 70.8% is covered with water, mostly by oceans, seas, gulfs, and other salt-water bodies, but also by lakes, rivers, and other freshwater, which together constitute the hydrosphere. Much of Earth's polar regions are covered in ice. Earth's outer layer is divided into several rigid tectonic plates that migrate across the surface over many millions of years, while its interior remains active with a solid iron inner core, a liquid outer core that generates Earth's magnetic field, and a convective mantle that drives plate tectonics.</p>
+    <hr />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/EpicEarth-Globespin%282016May29%29.gif/330px-EpicEarth-Globespin%282016May29%29.gif" />
+    <hr />
+    
+    <h2>About the earth:</h2>
+    <ul>
+        <li><strong>Mass=</strong>1574546421 Kg</li>
+        <li><strong>diameter=</strong> m</li>
+        <li><strong>density=</strong> kg/m3</li>
+        <li><strong>satellite=</strong><a href="https://en.wikipedia.org/wiki/Moon">Moon</a></li>
+    </ul>
+    <hr />
+    <h2>Top 3 earth facts</h2>
+    <ol>
+        <li>rotation</li>
+        <li>a year is 365 days</li>
+        <li>70% is water</li>
+        <li>30% is ground</li>
+    </ol>
+    <hr />
+    <h2>Earth's nearest neighbours</h2>
+    <table>
+        <tr><th>Name</th><th>radius</th><th>average temp</th></tr>
+        <tr><td>Mars</td><td>3390 km</td><td>-55 &#8451;</td></tr>
+        <tr><td>venus</td><td>6052 km</td><td>460 &#8451;</td></tr>
+    </table>
+    <hr />
+    <p>want to know more?</p>
+    <form action="https://solarsystem.nasa.gov/planets/earth/overview/">
+        <input type="submit" Value="click here!" />
+    </form>
+   
+
+</div>
+</body>
+</html>
